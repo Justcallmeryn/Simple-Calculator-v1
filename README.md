@@ -1,1 +1,1 @@
-C++ Simple Calculator by ryn <3
+C++ Simple Calculator by ryn
